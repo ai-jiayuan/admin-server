@@ -1,0 +1,7 @@
+#server.port=8000
+#spring.application.name=Spring Boot Admin Web
+#spring.boot.admin.url=http://localhost:${server.port}
+#spring.jackson.serialization.indent_output=true
+#management.endpoints.web.exposure.include: "*"
+server:
+  port: 8788
